@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ankitpawar1/Calc-React/static/css/main.015fdcce.css",
+    "main.js": "/ankitpawar1/Calc-React/static/js/main.f3e27c08.js",
+    "index.html": "/ankitpawar1/Calc-React/index.html",
+    "main.015fdcce.css.map": "/ankitpawar1/Calc-React/static/css/main.015fdcce.css.map",
+    "main.f3e27c08.js.map": "/ankitpawar1/Calc-React/static/js/main.f3e27c08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.015fdcce.css",
+    "static/js/main.f3e27c08.js"
+  ]
+}
